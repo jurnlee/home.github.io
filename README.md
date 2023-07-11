@@ -51,7 +51,5 @@
 - 2023-04-12
   - 移除 Jquery 依赖，使用原生 JS
 
-### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
 
